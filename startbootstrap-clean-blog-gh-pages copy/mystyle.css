@@ -1,0 +1,29 @@
+body {
+   color: darkslateblue; 
+   font-family: Arial, Helvetica, sans-serif;
+}
+.scratchbg {
+   background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pf-eye-0001_2_0.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=efbf83e72da8461f9547e57a50bc3261);
+}
+
+.bold {
+   font-weight: bold;
+}
+
+.italic {
+   color: darkmagenta;
+   font-style: italic;
+}
+
+.border {
+   border-width: 1px;
+   border-style: solid;
+}
+
+.fontsize {
+ font-size: large;
+}
+
+.title {
+   font-size: xx-large;
+}
